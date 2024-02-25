@@ -1,6 +1,6 @@
 # Full-Stack API usando Java Spring Boot, React, and MongoDB
 
-Dentro da pasta movie se encontra o back-end da Api.\
+Dentro da pasta movies se encontra o back-end da Api.\
 Ainda em fase de testes
 
 
