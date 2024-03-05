@@ -2,6 +2,7 @@
 
 Dentro da pasta movies se encontra o back-end da Api.\
 Ainda em fase de testes
+![image](https://github.com/Miguel-Silva44/Full-Stack-Java-API/assets/125134252/bf265b21-cc46-46dd-94b5-3c3ca4e1de25)
 
 
 # Getting Started with Create React App
